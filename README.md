@@ -25,6 +25,15 @@ Just easily import it.
     BValidation.myValidation('some thing');//false
 </script>
 ```
+Or import like this.
+```javascript
+//some code
+import BValidation from 'better-validation';
+
+BValidation.isEmail('abc@sina.com');//true
+```
+
+```
 ### API
 ```javascript
 BValidation.isNumber(param)
