@@ -1,0 +1,32 @@
+{
+  "name": "better-validation",
+  "version": "1.0.0",
+  "description": "Collections of validation",
+  "main": "better-validation.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litong534/better-validation.git"
+  },
+  "keywords": [
+    "validate",
+    "validation",
+    "RegExp"
+  ],
+  "author": "rozwel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/litong534/better-validation/issues"
+  },
+  "homepage": "https://github.com/litong534/better-validation#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
