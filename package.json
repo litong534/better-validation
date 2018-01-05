@@ -1,6 +1,6 @@
 {
   "name": "better-validation",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Collections of validation",
   "main": "better-validation.js",
   "directories": {

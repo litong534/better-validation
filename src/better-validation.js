@@ -95,7 +95,7 @@
 
 
 
-  BValidation.version = '1.0.0';
+  BValidation.version = '1.0.2';
 
   return new BValidation();
 }));

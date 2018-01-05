@@ -28,7 +28,7 @@ Just easily import it.
 ### API
 ```javascript
 BValidation.isNumber(param)
-
+```
 check if the type of param is number.
 ```javascript
 BValidation.isEmail(param)
@@ -72,7 +72,7 @@ BValidation.isMobile(param)
 check if the param is legal mobile phone number.
 ```javascript
 BValidation.isIDCardNo15(param)
-
+```
 check if the param is legal chinese ID card number,which length is 15.
 ```javascript
 BValidation.isIDCardNo18(param)
